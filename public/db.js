@@ -1,3 +1,5 @@
+const { connection } = require("mongoose");
+
 // Create a new db request for a "budget" database.
 let db;
 const request = indexedDB.open("budget", 1);
