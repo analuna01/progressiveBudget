@@ -1,6 +1,7 @@
 let transactions = [];
 let myChart;
 
+// Registers service worker with new path
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', () => {
       navigator.serviceWorker.register('/service-worker.js')
