@@ -32,6 +32,11 @@ MIT
 Contributions are welcomed upon request.
 
 ## Demo
+<img src="/media/budgetapp.png">
+
+<img src="/media/installapp.png">
+
+<img src="/media/app.png">
 
 ## Questions
 Github: https://github.com/analuna01
